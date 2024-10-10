@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Eu Sou a Luz do Mundo",
+        "artista": "Artista Exemplo",
+        "letra": [
+            { "acorde": "C", "texto": "Eu sou a luz do" },
+            { "acorde": "G", "texto": "mundo" },
+            { "acorde": "Am", "texto": "Seguindo-me não an" },
+            { "acorde": "F", "texto": "darás" },
+            { "acorde": "Dm", "texto": "Caminharei contigo" },
+            { "acorde": "G", "texto": "Para sempre" },
+            { "acorde": "C", "texto": "estarás" }
+        ]
+    },
+    {
+        "nome": "Parabéns pra Você",
+        "artista": "Tradicional",
+        "letra": [
+            { "acorde": "G", "texto": "Parabéns pra" },
+            { "acorde": "D", "texto": "você" },
+            { "acorde": "G", "texto": "Nesta data" },
+            { "acorde": "C", "texto": "querida" },
+            { "acorde": "G", "texto": "Muitas felicidades" },
+            { "acorde": "D", "texto": "Muitos anos de" },
+            { "acorde": "G", "texto": "vida" }
+        ]
+    }
+]
